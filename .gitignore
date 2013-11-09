@@ -1,0 +1,6 @@
+.*
+composer.lock
+/etc/config.json
+/etc/closedIssues.json
+/etc/openIssues.json
+/vendor
